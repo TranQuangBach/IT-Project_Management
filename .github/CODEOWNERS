@@ -1,0 +1,16 @@
+# Quy tắc: dòng khớp SAU CÙNG sẽ được áp dụng -> dòng cụ thể đặt dưới dòng chung
+# TV1 PM (TranQuangBach) | TV2 Dev Lead (KivicDu) | TV3 Frontend & AI (PAHyi-AI)
+# TV4 BA (tranthiyennhi1855-afk) | TV5 UI/UX & Tester (TrieuKy)
+*                                       @KivicDu
+/frontend/                              @PAHyi-AI @KivicDu
+/backend/                               @KivicDu
+/backend/src/services/gemini/           @PAHyi-AI @KivicDu
+/backend/src/modules/ai-chat/           @KivicDu @PAHyi-AI
+/backend/src/modules/ai-chat/prompts/   @tranthiyennhi1855-afk @KivicDu
+/database/                              @KivicDu
+/docs/01-project-management/            @TranQuangBach
+/docs/02-requirements/                  @tranthiyennhi1855-afk
+/docs/03-design/ui-ux/                  @TrieuKy
+/docs/04-testing/                       @TrieuKy
+/tests/                                 @TrieuKy
+/.github/                               @TranQuangBach
